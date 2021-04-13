@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @an-ik
-- 👀 I’m interested in front end development
+- 👋 Hi, I’m @an-ik 
+- 👀 I’m a product designer building my skills in front end development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me andominik@gmail.com
